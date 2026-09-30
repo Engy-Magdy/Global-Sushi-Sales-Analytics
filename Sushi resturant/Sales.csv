@@ -1,0 +1,21 @@
+date,location,sales,payment_method
+2026-01-05,United States,1250.00,Credit Card
+2026-01-06,Canada,980.50,Cash
+2026-01-07,United Kingdom,1420.75,Debit Card
+2026-01-08,Germany,760.25,PayPal
+2026-01-09,United States,1130.00,Credit Card
+2026-01-10,Canada,890.40,Cash
+2026-01-11,United Kingdom,655.90,Debit Card
+2026-01-12,Germany,1345.60,Credit Card
+2026-01-13,United States,1010.30,PayPal
+2026-01-14,Canada,720.15,Cash
+2026-01-15,United Kingdom,1580.00,Credit Card
+2026-01-16,Germany,940.85,Debit Card
+2026-01-17,United States,825.50,PayPal
+2026-01-18,Canada,1195.75,Credit Card
+2026-01-19,United Kingdom,680.20,Cash
+2026-01-20,Germany,1075.90,Debit Card
+2026-01-21,United States,1620.45,Credit Card
+2026-01-22,Canada,890.00,PayPal
+2026-01-23,United Kingdom,1310.35,Cash
+2026-01-24,Germany,745.60,Debit Card

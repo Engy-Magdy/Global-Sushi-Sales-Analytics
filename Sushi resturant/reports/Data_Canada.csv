@@ -1,0 +1,6 @@
+,date,location,sales,payment_method
+1,2026-01-06,Canada,980.5,Cash
+5,2026-01-10,Canada,890.4,Cash
+9,2026-01-14,Canada,720.15,Cash
+13,2026-01-18,Canada,1195.75,Credit Card
+17,2026-01-22,Canada,890.0,PayPal

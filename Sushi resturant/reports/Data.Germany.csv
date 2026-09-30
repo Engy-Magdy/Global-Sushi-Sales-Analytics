@@ -1,0 +1,6 @@
+,date,location,sales,payment_method
+3,2026-01-08,Germany,760.25,PayPal
+7,2026-01-12,Germany,1345.6,Credit Card
+11,2026-01-16,Germany,940.85,Debit Card
+15,2026-01-20,Germany,1075.9,Debit Card
+19,2026-01-24,Germany,745.6,Debit Card
